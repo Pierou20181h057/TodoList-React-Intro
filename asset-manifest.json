@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "./static/css/main.8ee0e40c.css",
+    "main.js": "./static/js/main.eb004492.js",
+    "static/media/Perfil.jpg": "./static/media/Perfil.7f63fbb439ab67d9ed1d.jpg",
+    "static/media/sunny_FILL0_wght400_GRAD0_opsz24.svg": "./static/media/sunny_FILL0_wght400_GRAD0_opsz24.f67bca1e2b299314425b39c37a476171.svg",
+    "index.html": "./index.html",
+    "static/media/cancel_FILL0_wght500_GRAD200_opsz24.svg": "./static/media/cancel_FILL0_wght500_GRAD200_opsz24.e5fdf085d6d5d7cd711c59febd68c029.svg",
+    "static/media/check_circle_FILL0_wght500_GRAD200_opsz24.svg": "./static/media/check_circle_FILL0_wght500_GRAD200_opsz24.bbc05ebe4916011b47e3588e57735603.svg",
+    "static/media/waving_hand_black_24dp.svg": "./static/media/waving_hand_black_24dp.629bddf8ec1a80a7942a.svg",
+    "static/media/dark_mode_FILL0_wght400_GRAD0_opsz24.svg": "./static/media/dark_mode_FILL0_wght400_GRAD0_opsz24.8ea975a3b04f2b7cba2bcc21d1a1858f.svg",
+    "static/media/error_black_24dp.svg": "./static/media/error_black_24dp.a8a1294b9efa9d048ff53e647667884a.svg",
+    "main.8ee0e40c.css.map": "./static/css/main.8ee0e40c.css.map",
+    "main.eb004492.js.map": "./static/js/main.eb004492.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ee0e40c.css",
+    "static/js/main.eb004492.js"
+  ]
+}
