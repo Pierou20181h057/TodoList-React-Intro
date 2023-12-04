@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #146a96;
+  color: #1e1e1f;
+  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+#root {
+  margin: 0;
+  position: relative;
+  min-height: calc(100vh-20px);
+}

@@ -1,0 +1,17 @@
+.Empty-container{
+    margin-top: 44px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.Empty-icon{
+    font-size: 100px;
+    font-weight: 400;
+    font-family: 'Noto Color Emoji', sans-serif;
+}
+.Empty-p{
+    font-size: 18px;
+    line-height: 54px;
+    font-weight: bold;
+}
